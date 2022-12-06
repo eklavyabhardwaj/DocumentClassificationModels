@@ -1,0 +1,6 @@
+docType ,Total Files ,Success Classification Count ,Success Percent
+HospitalConsults,369,322,87.26
+HospitalProgressNote,844,787,93.25
+OfficeNote,904,845,93.47
+CTSca,750,749,99.87
+DME-CMN-For,748,748,100.00
